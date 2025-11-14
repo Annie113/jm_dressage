@@ -177,6 +177,12 @@ textarea::placeholder {
 
 /* ------------------- FRONT IMAGE ---------------------- */
 
+.wide-container {
+  max-width: 2000px;
+  width: 100%;
+  margin: 0 auto;
+}
+
 .front-image {
   background-image: url('../images/front-image.jpg');
   width: 100%;
